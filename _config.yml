@@ -4,8 +4,9 @@
 
 # Site
 title: Boyuan Li
-subtitle: ''
-description: ''
+subtitle: '李博远'
+description: "Hi, there 👋. I'm Boyuan Li, a Ph.D. student at Gaoling School of Artificial Intelligence, Renmin University of China, supervised by Prof. Ruihua Song. \
+  I received my Bachelor's degree at Shandong University. My research interests include <span style='font-weight: bold;'>character animation</span>, particularly <span style='font-weight: bold;'>human motion generation</span> and <span style='font-weight: bold;'>Large Language Model(LLM)</span>."
 keywords:
 # author: John Doe
 language: en
@@ -97,7 +98,8 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: fengye
-
+theme_config:
+  year_align_center: true
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:

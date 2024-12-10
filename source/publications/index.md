@@ -1,6 +1,9 @@
 ---
 title: "Publications"
 date: 2024-12
+category: publications
+tags:
+    - Motion Generation
 ---
 
 ### 2024
