@@ -39,7 +39,7 @@ show_featured_posts: true
 year_align_center: false
 
 # favicon
-favicon: /favicon.ico
+favicon: https://img.icons8.com/color-pixels/32/beefburger.png
 
 # logo
 portrait: /images/boyuan.jpg  # Your profile image here

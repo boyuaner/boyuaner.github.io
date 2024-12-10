@@ -7,14 +7,14 @@
         <% if (post.thumbnail) { %>
             <% var postDir = url_for(post.path); %>
             <!-- Post thumbnail -->
-            <a href="<%- url_for(post.path) %>" class="h-full min-w-16 max-w-36 sm:max-w-48">
+            <a href="<%- url_for(post.path) %>" class="flex h-full w-64 sm:max-w-48">
                 <img class="
                     rounded-md
                     object-cover
                     transition-all
                     hover:scale-105
                     hover:shadow-md"
-                    src="<%- url_for(post.path) %><%-post.thumbnail %>"
+                    src="<%-post.thumbnail %>"
                     alt="<%- post.thumbnail_alt %>">
                 </img>
             </a>
@@ -29,7 +29,8 @@
                         hover:text-[var(--c-theme)]
                         transition-all
                         hover:underline">
-                        <%- post.title %>
+                        <%- post.title  %>
+                        <!-- <%-  url_for(post.path) + post.thumbnail %> -->
                     </h2>
                 </a>
             <!-- Post excerpt -->
@@ -50,13 +51,19 @@
                     <%- date(post.date, 'YYYY-MM-DD' ) %>
                 </time>
             </span>
-            <!-- <span class="flex flex-row items-center gap-1 group">
+            <span class="flex flex-row items-center gap-1 group">
+                <% if (post.recruit !== "UnderReview") { %>
+                <iconify-icon width="16"
+                    icon="mingcute:check-circle-fill"></iconify-icon>
+                <% } else { %>
                 <iconify-icon width="16"
                     icon="mingcute:refresh-3-fill"></iconify-icon>
-                <time class="w-max">
-                    <%= date(post.updated, 'YYYY-MM-DD' ) %>
-                </time>
-            </span> -->
+                <% } %>
+                <p class="w-max">
+                    <%= post.recruit %>
+                </p>
+                
+            </span>
             <!-- <span class="flex flex-row items-center gap-1 group">
                 <iconify-icon width="16"
                     icon="mingcute:book-2-fill"></iconify-icon>

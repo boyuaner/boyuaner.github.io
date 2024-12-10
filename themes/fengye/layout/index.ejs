@@ -13,18 +13,18 @@
         site-title
         text-center
         text-5xl
-        bg-gradient-to-r from-cyan-500 to-blue-500 bg-clip-text text-transparent
         pb-4
         pt-6
         font-black
         ">
+        <!-- bg-gradient-to-r from-cyan-500 to-blue-500 bg-clip-text text-transparent -->
         <%= config.title %>
       </h1>
       <!-- Sub-title -->
       <p class="
         text-3xl font-extrabold text-center
-        bg-gradient-to-r from-cyan-500 to-blue-500 bg-clip-text text-transparent
         text-[var(--c-80)]">
+        <!-- bg-gradient-to-r from-cyan-500 to-blue-500 bg-clip-text text-transparent -->
         <%= config.subtitle %>
       </p>
       <div class="flex flex-wrap items-center justify-center gap-4 my-6 font-bold text-lg">
@@ -65,7 +65,7 @@
         </div>
       </div>
 
-      <div class="description-container max-w-prose mx-auto grid grid-cols-1">
+      <div class="description-container mx-auto grid grid-cols-1">
         <div class="text-left p-8">
           <p>
             <%- site.pages.filter(page => page.exp).data[0].content %>
