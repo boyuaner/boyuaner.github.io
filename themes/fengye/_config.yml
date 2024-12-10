@@ -5,15 +5,15 @@ nav:
   #   path: ./archives
   #   icon: mingcute:inbox-fill
   #   text: Posts
-  publications:
-    path: ./publications
-    icon: mingcute:science-fill
-    text: Publications
+  # publications:
+  #   path: ./publications
+  #   icon: mingcute:science-fill
+  #   text: Publications
   # Projects: /projects
-  about:
-    path: ./about
-    icon: mingcute:user-info-fill
-    text: About
+  # about:
+  #   path: ./about
+  #   icon: mingcute:user-info-fill
+  #   text: About
   # categories:
   #   path: ./categories
   #   icon: mingcute:classify-2-fill

@@ -13,3 +13,4 @@ Current research often employs separate module branches for individual motions, 
 To address these challenges, we propose a novel, unified approach that models multi-person motions and their interactions within a single latent space.
 Our approach streamlines the process by treating interactive motions as an integrated data point, utilizing a Variational AutoEncoder (VAE) for compression into a unified latent space, and performing a diffusion process within this space, guided by the natural language conditions.
 Experimental results demonstrate our method's superiority over existing approaches in generation quality, performing text condition in particular when motions have significant asymmetry, and accelerating the generation efficiency while preserving high quality. 
+![img](https://ericblog.oss-cn-beijing.aliyuncs.com/img/twoinone.png)
