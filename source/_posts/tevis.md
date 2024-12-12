@@ -3,7 +3,7 @@ title: "TeViS: Translating Text Synopses to Video Storyboards"
 date: 2023-04-23
 featured: true
 recruit: CVPR2024
-thumbnail: https://ericblog.oss-cn-beijing.aliyuncs.com/img/tevis.png
+thumbnail: https://ericblog.oss-cn-beijing.aliyuncs.com/img/tevis.png?Expires=1734006430&OSSAccessKeyId=TMP.3KjuRoXKWwbh3Zj5x2EC5zYSL3KBFPPqmUBZC2KWiLpkSXN1QTHsTAnAtC7eodbLiw2zaY6M2uy6z6atbp2XsJjQGSurzX&Signature=cwhczFnUXqzn0NVWJEEMGtrV1dY%3D
 ---
 Xu Gu, Yuchong Sun, Feiyue Ni, Shizhe Chen, Xihua Wang, Ruihua Song, ***Boyuan Li***, Xiang Cao
 <!-- more -->
