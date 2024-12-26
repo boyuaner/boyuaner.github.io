@@ -1,5 +1,5 @@
 ---
-title: "TeViS: Translating Text Synopses to Video Storyboards"
+title: ["TeViS: Translating Text Synopses to Video Storyboards"](https://arxiv.org/abs/2301.00135)
 date: 2023-04-23
 featured: true
 recruit: CVPR2024
