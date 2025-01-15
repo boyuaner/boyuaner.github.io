@@ -1,8 +1,8 @@
 ---
-title: ["Two-in-One: Unified Multi-Person Interactive Motion Generation by Latent Diffusion Transformer"](http://arxiv.org/abs/2412.16670)
+title: "Two-in-One: Unified Multi-Person Interactive Motion Generation by Latent Diffusion Transformer"
 date: 2024-09-13
 featured: true
-recruit: ICASSP 2025(CCF-B)
+recruit: ICASSP2025(CCF-B)
 thumbnail: https://ericblog.oss-cn-beijing.aliyuncs.com/img/twoinone.png
 ---
 ***Boyuan Li***, Xihua Wang, Ruihua Song and Wenbing Huang
@@ -14,3 +14,4 @@ To address these challenges, we propose a novel, unified approach that models mu
 Our approach streamlines the process by treating interactive motions as an integrated data point, utilizing a Variational AutoEncoder (VAE) for compression into a unified latent space, and performing a diffusion process within this space, guided by the natural language conditions.
 Experimental results demonstrate our method's superiority over existing approaches in generation quality, performing text condition in particular when motions have significant asymmetry, and accelerating the generation efficiency while preserving high quality. 
 ![img](https://ericblog.oss-cn-beijing.aliyuncs.com/img/twoinone.png)
+(http://arxiv.org/abs/2412.16670)
