@@ -105,5 +105,5 @@ theme_config:
 deploy:
   type: git
   repo: https://github.com/boyuaner/boyuaner.github.io.git
-  branch: main
+  branch: static
   message: Update blog
