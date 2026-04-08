@@ -1,0 +1,12 @@
+---
+title: "OpenT2M: No-frill Motion Generation with Open-source, Large-scale, High-quality Data"
+date: 2026-01-01
+featured: true
+recruit: arXiv2026
+thumbnail: https://ericblog.oss-cn-beijing.aliyuncs.com/img/opent2m.jpg
+---
+Bohong Cao, Sibo Zheng, Hanzhi Luo, ***Boyuan Li***, Jiaming Liu, Zhiwu Lu
+[Arxiv](https://arxiv.org/abs/2603.18623)
+<!-- more -->
+## Abstract
+We present OpenT2M, a no-frill text-to-motion generation framework built upon open-source, large-scale, and high-quality motion data. Our approach democratizes motion generation research by removing dependencies on proprietary datasets.
