@@ -3,7 +3,7 @@ title: "TeViS: Translating Text Synopses to Video Storyboards"
 date: 2023-04-23
 featured: true
 recruit: ACM MM 2023
-thumbnail: "https://ericblog.oss-cn-beijing.aliyuncs.com/img/tevis.png"
+thumbnail: /images/papers/tevis.jpg
 ---
 Xu Gu, Yuchong Sun, Feiyue Ni, Shizhe Chen, Xihua Wang, Ruihua Song, ***Boyuan Li***, Xiang Cao
 [Project Page](https://ruc-aimind.github.io/projects/TeViS/) | [Arxiv](https://arxiv.org/abs/2301.00135)

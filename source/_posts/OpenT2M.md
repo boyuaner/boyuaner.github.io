@@ -3,7 +3,7 @@ title: "OpenT2M: No-frill Motion Generation with Open-source, Large-scale, High-
 date: 2026-01-01
 featured: true
 recruit: CVPR 2026
-thumbnail: https://ericblog.oss-cn-beijing.aliyuncs.com/img/opent2m.jpg
+thumbnail: /images/papers/opent2m.jpg
 ---
 Bin Cao, Sipeng Zheng, Hao Luo, ***Boyuan Li***, Jing Liu, Zongqing Lu
 [Arxiv](https://arxiv.org/abs/2603.18623)

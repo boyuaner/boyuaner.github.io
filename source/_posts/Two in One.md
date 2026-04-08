@@ -3,7 +3,7 @@ title: "Two-in-One: Unified Multi-Person Interactive Motion Generation by Latent
 date: 2024-09-13
 featured: true
 recruit: ICASSP 2025
-thumbnail: https://ericblog.oss-cn-beijing.aliyuncs.com/img/twoinone.png
+thumbnail: /images/papers/twoinone.jpg
 ---
 ***Boyuan Li***, Xihua Wang, Ruihua Song, Wenbing Huang
 [Arxiv](http://arxiv.org/abs/2412.16670)

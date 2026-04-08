@@ -3,7 +3,7 @@ title: "Think Then React: Towards Unconstrained Action-to-Reaction Motion Genera
 date: 2024-09-28
 featured: true
 recruit: ICLR 2025
-thumbnail: https://ericblog.oss-cn-beijing.aliyuncs.com/img/TTR.jpg
+thumbnail: /images/papers/TTR.jpg
 ---
 Wenhui Tan, ***Boyuan Li***, Chuhao Jin, Wenbing Huang, Xiting Wang, Ruihua Song 
 [Project Page](https://think-then-react.github.io/) | [Arxiv](https://www.arxiv.org/abs/2503.16451)
