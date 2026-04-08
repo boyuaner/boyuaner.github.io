@@ -5,7 +5,7 @@ featured: true
 recruit: CVPR 2025
 thumbnail: https://ericblog.oss-cn-beijing.aliyuncs.com/img/robust_motion.jpg
 ---
-***Boyuan Li***, Sibo Zheng, Bohong Cao, Ruihua Song, Zhiwu Lu
+***Boyuan Li***, Sipeng Zheng, Bin Cao, Ruihua Song, Zongqing Lu
 [Arxiv](https://arxiv.org/abs/2512.12703)
 <!-- more -->
 ## Abstract
