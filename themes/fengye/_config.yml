@@ -72,7 +72,7 @@ mathjax: true
 echarts: true
 
 # busuanzi
-busuanzi: true
+busuanzi: false
 
 # mermaid
 mermaid:
