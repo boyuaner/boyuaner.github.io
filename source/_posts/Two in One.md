@@ -6,8 +6,9 @@ recruit: ICASSP 2025
 thumbnail: /images/papers/twoinone.jpg
 ---
 ***Boyuan Li***, Xihua Wang, Ruihua Song, Wenbing Huang
-[Arxiv](http://arxiv.org/abs/2412.16670)
 <!-- more -->
+**ICASSP 2025**
+
 ## Abstract
 Multi-person interactive motion generation, a critical yet under-explored domain in computer character animation, poses significant challenges such as intricate modeling of inter-human interactions beyond individual motions and generating two motions with huge differences from one text condition.
 Current research often employs separate module branches for individual motions, leading to a loss of interaction information and increased computational demands. 

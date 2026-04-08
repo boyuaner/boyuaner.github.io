@@ -6,8 +6,10 @@ recruit: ACM MM 2023
 thumbnail: /images/papers/tevis.jpg
 ---
 Xu Gu, Yuchong Sun, Feiyue Ni, Shizhe Chen, Xihua Wang, Ruihua Song, ***Boyuan Li***, Xiang Cao
-[Project Page](https://ruc-aimind.github.io/projects/TeViS/) | [Arxiv](https://arxiv.org/abs/2301.00135)
 <!-- more -->
+**ACM MM 2023**  
+[Project Page](https://ruc-aimind.github.io/projects/TeViS/)
+
 ## Abstract
 A storyboard is a roadmap for video creation which consists of shot-by-shot images to visualize key plots in a text synopsis. Creating video storyboards however remains challenging which not only requires association between high-level texts and images, but also demands for long-term reasoning to make transitions smooth across shots. We propose a new task called Text synopsis to Video Storyboard (TeViS), which aims to retrieve an ordered sequence of images to visualize the text synopsis.
 Previous works on text-to-image retrieval can only produce static images without considering the dynamics of shots in the video. Text-to-video works are able to retrieve or generate videos. Yet, most of them focus on short-term video clips with only a few seconds as shown in Fig. 1 (a). The images in these videos are highly redundant and cannot satisfy the requirement of a video storyboard for coherent keyframes. Previous works on visual storytelling works are proposed to visualize text with a sequence of images, but they care more about the text-image relevancy while omitting long-term reasoning to make transition smooth across keyframes (see Fig. 1 (b)). Moreover, the query texts in existing works are visually concrete and descriptive, making the models less generalizable to more abstract and high-level text synopses such as the synopsis in Fig. 1 (c).

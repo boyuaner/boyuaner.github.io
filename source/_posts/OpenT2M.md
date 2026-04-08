@@ -6,7 +6,8 @@ recruit: CVPR 2026
 thumbnail: /images/papers/opent2m.jpg
 ---
 Bin Cao, Sipeng Zheng, Hao Luo, ***Boyuan Li***, Jing Liu, Zongqing Lu
-[Arxiv](https://arxiv.org/abs/2603.18623)
 <!-- more -->
+**CVPR 2026**
+
 ## Abstract
 We present OpenT2M, a no-frill text-to-motion generation framework built upon open-source, large-scale, and high-quality motion data. Our approach democratizes motion generation research by removing dependencies on proprietary datasets.
