@@ -2,10 +2,10 @@
 title: "Two-in-One: Unified Multi-Person Interactive Motion Generation by Latent Diffusion Transformer"
 date: 2024-09-13
 featured: true
-recruit: ICASSP2025, Cited by 7
+recruit: ICASSP 2025
 thumbnail: https://ericblog.oss-cn-beijing.aliyuncs.com/img/twoinone.png
 ---
-***Boyuan Li***, Xihua Wang, Ruihua Song and Wenbing Huang
+***Boyuan Li***, Xihua Wang, Ruihua Song, Wenbing Huang
 [Arxiv](http://arxiv.org/abs/2412.16670)
 <!-- more -->
 ## Abstract

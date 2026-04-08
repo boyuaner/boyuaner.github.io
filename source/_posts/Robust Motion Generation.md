@@ -2,7 +2,7 @@
 title: "Robust Motion Generation using Part-level Reliable Data from Videos"
 date: 2025-12-01
 featured: true
-recruit: arXiv2025
+recruit: CVPR 2025
 thumbnail: https://ericblog.oss-cn-beijing.aliyuncs.com/img/robust_motion.jpg
 ---
 ***Boyuan Li***, Sibo Zheng, Bohong Cao, Ruihua Song, Zhiwu Lu

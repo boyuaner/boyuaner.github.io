@@ -2,7 +2,7 @@
 title: "TeViS: Translating Text Synopses to Video Storyboards"
 date: 2023-04-23
 featured: true
-recruit: MM2023
+recruit: ACM MM 2023
 thumbnail: "https://ericblog.oss-cn-beijing.aliyuncs.com/img/tevis.png"
 ---
 Xu Gu, Yuchong Sun, Feiyue Ni, Shizhe Chen, Xihua Wang, Ruihua Song, ***Boyuan Li***, Xiang Cao

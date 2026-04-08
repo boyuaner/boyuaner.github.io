@@ -2,7 +2,7 @@
 title: "Animate and Sound an Image"
 date: 2025-06-01
 featured: true
-recruit: CVPR2025
+recruit: CVPR 2025
 thumbnail: https://ericblog.oss-cn-beijing.aliyuncs.com/img/animate_sound.jpg
 ---
 Xihua Wang, Ruihua Song, Cheng Li, Xin Cheng, ***Boyuan Li***, Yang Wu, Yanan Wang, Huanhuan Xu, Yida Wang

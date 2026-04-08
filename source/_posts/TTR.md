@@ -1,8 +1,8 @@
 ---
 title: "Think Then React: Towards Unconstrained Action-to-Reaction Motion Generation"
-date: 2024-09-28 
+date: 2024-09-28
 featured: true
-recruit: ICLR2025, Cited by 10
+recruit: ICLR 2025
 thumbnail: https://ericblog.oss-cn-beijing.aliyuncs.com/img/TTR.jpg
 ---
 Wenhui Tan, ***Boyuan Li***, Chuhao Jin, Wenbing Huang, Xiting Wang, Ruihua Song 
