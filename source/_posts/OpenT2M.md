@@ -5,7 +5,7 @@ featured: true
 recruit: CVPR 2026
 thumbnail: https://ericblog.oss-cn-beijing.aliyuncs.com/img/opent2m.jpg
 ---
-Bohong Cao, Sibo Zheng, Hanzhi Luo, ***Boyuan Li***, Jiaming Liu, Zhiwu Lu
+Bin Cao, Sipeng Zheng, Hao Luo, ***Boyuan Li***, Jing Liu, Zongqing Lu
 [Arxiv](https://arxiv.org/abs/2603.18623)
 <!-- more -->
 ## Abstract
