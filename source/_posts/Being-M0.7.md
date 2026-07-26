@@ -3,6 +3,7 @@ title: "Being-M0.7: A Latent World-Action Model for Humanoid Robots"
 date: 2026-07-01
 featured: true
 recruit: Technical Report 2026
+thumbnail: /images/papers/being-m07.jpg
 ---
 Junpeng Yue\*, ***Boyuan Li***\*, Yuxuan Wang\*, Zepeng Wang, Yuhui Fu, Feiyang Xie, Yu Zhang, Jing Zhang, Jiangxing Wang, Zongqing Lu
 <!-- more -->
