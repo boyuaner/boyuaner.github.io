@@ -1,5 +1,5 @@
 ---
-title: "OpenT2M: No-frill Motion Generation with Open-source, Large-scale, High-quality Data"
+title: "OpenT2M: No-frills Motion Generation with Open-source, Large-scale, High-quality Data"
 date: 2026-01-01
 featured: true
 recruit: CVPR 2026
@@ -10,4 +10,4 @@ Bin Cao, Sipeng Zheng, Hao Luo, ***Boyuan Li***, Jing Liu, Zongqing Lu
 **CVPR 2026**
 
 ## Abstract
-We present OpenT2M, a no-frill text-to-motion generation framework built upon open-source, large-scale, and high-quality motion data. Our approach democratizes motion generation research by removing dependencies on proprietary datasets.
+We present OpenT2M, a no-frills text-to-motion generation framework built on open, million-scale, high-quality motion data and a part-aware spatiotemporal tokenizer. The framework improves open-vocabulary text generalization without relying on proprietary datasets.
