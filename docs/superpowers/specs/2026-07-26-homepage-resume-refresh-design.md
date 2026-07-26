@@ -6,6 +6,13 @@ Refresh the existing English academic homepage from the supplied July 2026 Chine
 
 ## Scope
 
+### Source of truth
+
+- Treat the sanitized July 2026 CV generated from `/Users/leon/Documents/resume/2026-07-16-zh-multimodal.tex` as the source of truth for the homepage refresh.
+- Keep all overlapping homepage facts aligned with that CV, including research focus, education and internship dates, organization and role names, publication titles and venues, author order, and first/co-first-author status.
+- Translate and condense the CV content for an English academic homepage without adding claims that are absent from the CV.
+- If an existing publication page contains richer technical detail, retain it only where it does not conflict with the CV.
+
 ### Homepage content
 
 - Keep the homepage entirely in English.
@@ -40,6 +47,7 @@ Refresh the existing English academic homepage from the supplied July 2026 Chine
 - Make targeted edits only to existing homepage content, relevant publication metadata/content, theme configuration, and the resume PDF.
 - Do not redesign the site or add new navigation, page types, frameworks, or dependencies.
 - Do not expose the phone number in generated site files or PDF metadata/text.
+- Do not leave stale homepage facts that conflict with the July 2026 CV.
 - Preserve unrelated user changes if any appear during implementation.
 
 ## Verification
@@ -51,6 +59,7 @@ Refresh the existing English academic homepage from the supplied July 2026 Chine
 - Run a repository-wide search over source and generated public files to confirm the phone number is absent.
 - Run `hexo clean` and `hexo generate` successfully.
 - Inspect the generated homepage and CV link.
+- Compare all overlapping homepage facts against the sanitized CV before previewing.
 - Start the local Hexo server and provide the preview URL.
 - Wait for explicit user approval before pushing or deploying.
 
