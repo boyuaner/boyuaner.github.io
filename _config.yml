@@ -5,8 +5,7 @@
 # Site
 title: Boyuan Li
 subtitle: '李博远'
-description: "Hi, there👋 I'm Boyuan Li, a Ph.D. student at Gaoling School of Artificial Intelligence, Renmin University of China, supervised by Prof. Ruihua Song. \
-  I received my Bachelor's degree at Shandong University. My research interests include <span style='font-weight: bold;'>character animation</span>, particularly <span style='font-weight: bold;'>human motion generation</span>, <span style='font-weight: bold;'>multimodality</span> and <span style='font-weight: bold;'>Large Language Model(LLM)</span>."
+description: "I am a Ph.D. student at the Gaoling School of Artificial Intelligence, Renmin University of China, advised by Prof. Ruihua Song. My research focuses on <span style='font-weight: bold;'>multimodal generation</span>, <span style='font-weight: bold;'>3D human motion generation</span>, and <span style='font-weight: bold;'>world-action models</span>. My first-author work has appeared at ACM Multimedia and ICASSP, and I have contributed to work at CVPR and ICLR."
 keywords:
 # author: John Doe
 language: en
