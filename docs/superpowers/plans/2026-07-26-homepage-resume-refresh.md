@@ -285,7 +285,7 @@ Run:
 ```bash
 rg -q 'BeingBeyond' public/index.html
 rg -q 'Being-M0.7' public/index.html
-rg -q 'ACM Multimedia 2026' public/index.html
+rg -q 'ACM Multimedia 2026' 'public/2025/12/01/Robust Motion Generation/index.html'
 rg -q 'CV \\(Chinese, July 2026\\)' public/index.html
 cmp themes/fengye/source/pdf/cv.pdf public/pdf/cv.pdf
 ! rg -n '13396229141' _config.yml source themes/fengye/_config.yml public --glob '!*.pdf'
